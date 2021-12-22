@@ -1,0 +1,14 @@
+C:\Users\Gheorghe\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\Gheorghe\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Gheorghe\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Gheorghe\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+C:\Users\Gheorghe\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gheorghe\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Dashboard.resources
+C:\Users\Gheorghe\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.LoginForm.resources
+C:\Users\Gheorghe\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\Gheorghe\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\Gheorghe\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\Gheorghe\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\Gheorghe\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\Gheorghe\source\repos\LoginForm\LoginForm\bin\Debug\Database1.mdf
+C:\Users\Gheorghe\source\repos\LoginForm\LoginForm\bin\Debug\Database1_log.ldf
